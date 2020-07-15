@@ -8,4 +8,4 @@ HTMLのタグを問題で出しています。
 
 あまりメリットは感じられませんがtypescriptで書きました。
 
-デモは[こちら]()
+デモは[https://typing-game-react.herokuapp.com/]()
